@@ -1,0 +1,1 @@
+// Logic moved to App.tsx to support JSX syntax
